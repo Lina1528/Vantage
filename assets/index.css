@@ -172,7 +172,7 @@ body{
     position: relative;
 }
 .photo-and-links{
-    background: url("img/main/header/room.png") no-repeat;
+    background: url("/img/main/header/room.png") no-repeat;
     width: 1200px;
     height: 659px;
     background-size: cover;
