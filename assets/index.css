@@ -172,7 +172,7 @@ body{
     position: relative;
 }
 .photo-and-links{
-    background: url("/assets/img/main/header/room.png") no-repeat;
+    background: url("assets/img/main/header/room.png") no-repeat;
     width: 1200px;
     height: 659px;
     background-size: cover;
@@ -199,7 +199,7 @@ body{
 }
 
 .yellow-square{
-    background: url("/assets/img/main/header/square.svg") no-repeat;
+    background: url("assets/img/main/header/square.svg") no-repeat;
     background-size: cover;
     width: 589px;
     height: 369px;
@@ -363,7 +363,7 @@ body{
     width: 100%;
 }
 .slider-item1{
-    background: url("/assets/img/main/aboutUs/livingRoom.png") no-repeat;
+    background: url("assets/img/main/aboutUs/livingRoom.png") no-repeat;
     background-size: contain;
     width: 412px;
     height: 343px;
@@ -413,14 +413,14 @@ body{
     padding-top: 15px;
 }
 .slider-item2{
-    background: url("/assets/img/main/aboutUs/oceanview.png") no-repeat;
+    background: url("assets/img/main/aboutUs/oceanview.png") no-repeat;
     background-size: contain;
     width: 412px;
     height: 343px;
     position: relative;
 }
 .slider-item3{
-    background: url("/assets/img/main/aboutUs/diningarea.png") no-repeat;
+    background: url("assets/img/main/aboutUs/diningarea.png") no-repeat;
     background-size: contain;
     width: 412px;
     height: 343px;
@@ -464,14 +464,14 @@ body{
 }
 .slick-dots li button::before{
     content: '';
-    background: url("/assets/img/main/aboutUs/black-square.svg") no-repeat;
+    background: url("assets/img/main/aboutUs/black-square.svg") no-repeat;
     background-color: dimgray;
     width: 11px;
     height: 11px;
 }
 .slick-dots li.slick-active button::before{
     content: '';
-    background: url("/assets/img/main/aboutUs/black-square.svg") no-repeat;
+    background: url("assets/img/main/aboutUs/black-square.svg") no-repeat;
 }
 
 
@@ -586,7 +586,7 @@ body{
     padding-top: 68px;
 }
 .footer-menu-logo{
-    background: url("/assets/img/main/header/Logo.svg") no-repeat;
+    background: url("assets/img/main/header/Logo.svg") no-repeat;
     background-size: contain;
     width: 131px;
     height: 34px;
